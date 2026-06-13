@@ -1,1 +1,32 @@
-site_name: My Docs
+site_name: Instrukcja dla Pracowników
+
+theme:
+  name: material
+  palette:
+    # Przycisk do zmiany na tryb ciemny/jasny
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7 
+        name: Przełącz na tryb ciemny
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Przełącz na tryb jasny
+  features:
+    - navigation.tabs # Ładne zakładki nawigacyjne na górze
+
+# Włączenie rozszerzeń Markdown (pozwala na kolorowe ramki)
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Strona główna: index.md
+  - Temat projektu i Autorzy: temat_autorzy.md
+  - Sekcja teoretyczna: teoria.md
+  - Przykłady: przyklady.md
