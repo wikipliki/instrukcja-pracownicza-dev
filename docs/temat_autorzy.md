@@ -4,7 +4,7 @@ Niniejszy projekt to instrukcja dla pracowników z zakresu obsługi systemów fi
 
 
 
-Kierownik projektu: Wiktor "Cwel" Jaskierny 
+Kierownik projektu: Wiktor Jaskierny 
 
 Współautor: Patryk Stec
 
