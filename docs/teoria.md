@@ -20,7 +20,13 @@ Górna krawędź monitora powinna znajdować się na wysokości oczu lub nieco p
 
 Zadbaj o odpowiednie oświetlenie – monitor nie powinien stać na tle okna ani naprzeciwko niego, aby unikać odblasków.
 
+## 3. Przerwy w pracy
+Zgodnie z Kodeksem Pracy, pracownikowi przysługują przerwy, które należy bezwzględnie wykorzystywać.
 
+| Czas pracy przed ekranem | Przysługująca przerwa | Zalecane czynności |
+|--------------------------|-----------------------|--------------------|
+| Każda pełna godzina      | 5 minut               | Wstanie od biurka, rozciąganie, patrzenie w dal. |
+| Ponad 6 godzin dziennie  | 15 minut              | Posiłek, odpoczynek od ekranu. |
 
 
 
