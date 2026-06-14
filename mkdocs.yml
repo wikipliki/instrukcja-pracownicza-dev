@@ -4,9 +4,24 @@ site_description: Instrukcja bezpieczeństwa i higieny pracy.
 
 theme:
   name: material
+  logo: logo.png
   palette:
-    primary: blue grey
-    accent: amber
+    # Tryb jasny
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Przełącz na tryb ciemny
+    # Tryb ciemny
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Przełącz na tryb jasny
 
 extra_css:
   - stylesheets/extra.css
@@ -16,3 +31,14 @@ nav:
   - Teoria BHP: teoria.md
   - Przykłady: przyklady.md
   - O Autorach: autorzy.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+
+features:
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky

@@ -16,3 +16,11 @@ Luźno leżące przewody w serwerowni lub pod biurkiem to częsta przyczyna uraz
 Zapewnij poszkodowanemu wygodną pozycję, nie wymuszaj ruchu.
 Zastosuj zimny okład na opuchnięte miejsce.
 Zgłoś incydent do działu BHP jako wypadek w miejscu pracy – wymaga to sporządzenia protokołu powypadkowego.
+
+
+
+!!! danger "Zagrożenie Życia"
+    Nigdy nie gaś urządzeń elektrycznych wodą! W przypadku pożaru sprzętu komputerowego używaj wyłącznie gaśnic śniegowych.
+
+!!! tip "Dobra Praktyka Ergonomiczna"
+    Pamiętaj o regule 20-20-20. Co 20 minut popatrz na obiekt oddalony o minimum 20 stóp (ok. 6 metrów) przez 20 sekund.
