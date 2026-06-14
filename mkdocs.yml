@@ -1,32 +1,18 @@
-site_name: Instrukcja dla Pracowników
+site_name: Instrukcja BHP
+site_author: Wiktor I Patryk
+site_description: Instrukcja bezpieczeństwa i higieny pracy.
 
 theme:
   name: material
   palette:
-    # Przycisk do zmiany na tryb ciemny/jasny
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7 
-        name: Przełącz na tryb ciemny
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Przełącz na tryb jasny
-  features:
-    - navigation.tabs # Ładne zakładki nawigacyjne na górze
+    primary: blue grey
+    accent: amber
 
-# Włączenie rozszerzeń Markdown (pozwala na kolorowe ramki)
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Strona główna: index.md
-  - Temat projektu i Autorzy: temat_autorzy.md
-  - Sekcja teoretyczna: teoria.md
+  - Teoria BHP: teoria.md
   - Przykłady: przyklady.md
+  - O Autorach: autorzy.md
