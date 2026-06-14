@@ -1,0 +1,12 @@
+/* Modyfikacja wyglądu nagłówków */
+h1, h2 {
+  color: #2c3e50 !important;
+  border-bottom: 2px solid #ffc107;
+  padding-bottom: 5px;
+}
+
+/ Poprawa czytelności tabel */
+.md-typeset table:not([class]) {
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
