@@ -11,3 +11,8 @@ Uszkodzony zasilacz laptopa może być niebezpieczny. Jeśli zobaczysz iskrzenie
 * **Odetnij zasilanie:** Odłącz bezpieczniki w biurze lub wyciągnij wtyczkę (używając izolowanego przedmiotu, np. drewnianego kija).
 * **Nie dotykaj poszkodowanego**, dopóki nie upewnisz się, że źródło prądu jest odłączone.
 * Wezwij pogotowie (nr 112) oraz powiadom odpowiednie służby techniczne w firmie.
+## Przykład 3: Potknięcie o kable (wypadek w pracy)
+Luźno leżące przewody w serwerowni lub pod biurkiem to częsta przyczyna urazów. W razie upadku i skręcenia kostki:
+Zapewnij poszkodowanemu wygodną pozycję, nie wymuszaj ruchu.
+Zastosuj zimny okład na opuchnięte miejsce.
+Zgłoś incydent do działu BHP jako wypadek w miejscu pracy – wymaga to sporządzenia protokołu powypadkowego.
